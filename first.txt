@@ -1,1 +1,16 @@
-second line
+Linux commands
+RSA Key
+CI / CD
+Firebase 
+Graylog
+healthchecks
+websockets vs mqtt
+IAM
+Database
+Ruby / JS / Python
+Application KT
+wat is API? 
+System arch
+Basics of Networks
+How web works
+cybersecurity

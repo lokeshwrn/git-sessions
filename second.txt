@@ -1,1 +1,9 @@
-first conten
+how to remove file after add & before commit
+git remote details
+multi remote
+git reset . vs git checkout .
+
+devraj
+dinesh
+kaviraj
+nisanth

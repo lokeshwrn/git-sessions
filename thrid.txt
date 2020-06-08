@@ -1,1 +1,23 @@
-iasfasfsdf
+git merge
+git branch
+git stash
+git stash pop
+git rm
+
+git reset
+git tag
+git cherry-pick
+gitignore
+
+
+git branch / tag / stash 
+git merge / reset / cherry-pick
+
+git init
+git status
+git add
+git commit
+git push
+git pull
+git clone
+git diff
